@@ -8,7 +8,7 @@
 						type="url"
 						name="link"
 						id="link"
-						placeholder="shorten a url here"
+						placeholder="Shorten a url here"
 						aria-label="input a url"
 						v-model="value"
 					/>
